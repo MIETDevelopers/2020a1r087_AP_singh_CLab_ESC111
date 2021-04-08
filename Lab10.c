@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 
-//Largest Number - FScOnline.info
+//Largest Number 
 
 int main()
 {
